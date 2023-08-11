@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Cameron
-- 👀 I’m interested in the world (reality as it appears to us, or to me)
-- 🌱 I’m currently learning Python, I've made a start on C++ and JAvascript too, and I'd consider others. ALso langages, eg Swedish, Spanish and Chinese. And like.. what am I learning? I'm learning.
-- 💞️ I’m looking to collaborate on anything I can maybe help with 
-- 📫 How to reach me.. erm. If I discover this app doesn't have enough push notifications, I might have to write something here.
+- 👀 I’m interested in the world (reality as it appears)
+- 🌱 I’m currently learning Python, I've made a start on C++ and Javascript too, and I'm considering others as well. ALso human langages, most recent additions include Swedish, Spanish, and Chinese. But like.. what am I learning? I'm learning.
+- 💞️ I’m looking to collaborate on anything I've posted, or anything I can maybe help with. 
+- 📫 How to reach me.. erm.. I'm new here, and if it emerges that push notifications re messages is inadequate, I might add further details here...
 
 <!---
 CJKalani/CJKalani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
